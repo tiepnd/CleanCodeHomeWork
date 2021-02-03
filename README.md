@@ -55,7 +55,7 @@ private class Comment{
 ```
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-Gõ link đến mã nguồn bài này vào đây. Đừng comment code. Nếu thực sự CleanCode thì không cần comment vẫn hiểu được.
+https://github.com/tiepnd/CleanCodeHomeWork/tree/main/phan2
 
 ### 2. Composition over Inheritance và DI
 Gõ link đến mã nguồn bài này vào đây

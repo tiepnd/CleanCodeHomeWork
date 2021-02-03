@@ -1,4 +1,4 @@
-package com.homework.phan1.interfaces;
+package com.homework.phan2.interfaces;
 
 public interface IFile {
     void openFile();

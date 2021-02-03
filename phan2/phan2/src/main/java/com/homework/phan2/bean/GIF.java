@@ -1,21 +1,21 @@
-package com.homework.phan1.bean;
+package com.homework.phan2.bean;
 
-import com.homework.phan1.interfaces.IFile;
+import com.homework.phan2.interfaces.IFile;
 
-public class PNG extends GraphicEditor implements IFile {
+public class GIF extends GraphicEditor implements IFile {
     @Override
     public void openFile() {
-        System.out.println("open file PNG from: " + filePath);
+        System.out.println("open file GIF from: " + filePath);
     }
 
     @Override
     public void parseFile() {
-        System.out.println("parse file PNG from: " + filePath);
+        System.out.println("parse file GIF from: " + filePath);
     }
 
     @Override
     public void saveFile() {
-        System.out.println("save file PNG from: " + filePath);
+        System.out.println("save file GIF from: " + filePath);
     }
 
     @Override

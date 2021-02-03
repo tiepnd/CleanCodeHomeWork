@@ -1,20 +1,20 @@
-package com.homework.phan1;
+package com.homework.phan2;
 
-import com.homework.phan1.bean.BMP;
-import com.homework.phan1.bean.GIF;
-import com.homework.phan1.bean.JPG;
-import com.homework.phan1.bean.PNG;
-import com.homework.phan1.interfaces.IFile;
+import com.homework.phan2.bean.BMP;
+import com.homework.phan2.bean.GIF;
+import com.homework.phan2.bean.JPG;
+import com.homework.phan2.bean.PNG;
+import com.homework.phan2.interfaces.IFile;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Phan1Application {
+public class Phan2Application {
 
 	public static void main(String[] args) {
 		System.setProperty("server.port", "8081");
-		SpringApplication.run(Phan1Application.class, args);
+		SpringApplication.run(Phan2Application.class, args);
 		IFile graphicEditor1 = new BMP();
 		IFile graphicEditor2 = new JPG();
 		IFile graphicEditor3 = new PNG();

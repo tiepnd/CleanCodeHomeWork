@@ -17,6 +17,7 @@
 4. Đề xuất phù hợp với quy ước Clean Code
    - Đề xuất của Vân float raise là thuộc tính trong class Salary rồi.
      int calculateSalaryAfterYears(int initialSalary, int NthYear);
+5. https://github.com/tiepnd/CleanCodeHomeWork/tree/main/phan1/blog
 
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
@@ -27,11 +28,11 @@ Gõ link đến mã nguồn bài này vào đây
 
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
-
+https://github.com/tiepnd/CleanCodeHomeWork/tree/main/phan3
 ## Phần 4: Thiết kế RESTful API
-
+https://github.com/tiepnd/CleanCodeHomeWork/tree/main/phan4
 ## Phần 5: Lập trình Restful API
-
+https://github.com/tiepnd/CleanCodeHomeWork/tree/main/phan5
 ## Trắc nghiệm
 1. Điều nào không đúng khi nói về Design Pattern?
   ```
